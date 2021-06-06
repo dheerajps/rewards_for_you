@@ -1,0 +1,22 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "description": "Assignment to calculate rewards",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajps/rewards_for_you.git"
+  },
+  "keywords": [
+    "rewards"
+  ],
+  "author": "dheeraj p s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheerajps/rewards_for_you/issues"
+  },
+  "homepage": "https://github.com/dheerajps/rewards_for_you#readme"
+}
